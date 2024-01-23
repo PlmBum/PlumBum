@@ -13,7 +13,8 @@ namespace PlumBum
             int a = 12;
             int b = 13;
             int c = a + b;
-            Console.WriteLine(c);
+            int d = a + c;
+            Console.WriteLine(d);
         }
     }
 }
